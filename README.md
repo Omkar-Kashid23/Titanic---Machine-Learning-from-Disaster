@@ -83,8 +83,11 @@ The model achieved the following performance metrics on the validation set:
 ├── titanic/
 │   ├── train.csv          # Training data
 │   └── test.csv           # Test data
+├── titanic_model.pkl      # Trained model of titanic dataset
 ├── Titanic_Survival_Prediction.ipynb  # Main notebook
 ├── submission.csv         # Generated predictions for Kaggle
+├── requirements.txt       # requirements for the projects
+├── Titanic_Project_Report.docx
 └── README.md              # This file
 ```
 
