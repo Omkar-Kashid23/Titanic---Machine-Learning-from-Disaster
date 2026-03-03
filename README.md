@@ -80,7 +80,7 @@ The model achieved the following performance metrics on the validation set:
 
 ## 📁 Project Structure
 ```
-├── New folder/
+├── titanic/
 │   ├── train.csv          # Training data
 │   └── test.csv           # Test data
 ├── Titanic_Survival_Prediction.ipynb  # Main notebook
